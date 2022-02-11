@@ -10,7 +10,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "杂项文件",
       "ColorIndex": -1
+    },
+    "e9d4ca8e-fb8d-98a9-2f3c-052886d7b7bf": {
+      "ProjectGuid": "e9d4ca8e-fb8d-98a9-2f3c-052886d7b7bf",
+      "DisplayName": "DoozyEngine",
+      "ColorIndex": 1
+    },
+    "e81a839b-478d-b2da-5c97-f87eb78e7f49": {
+      "ProjectGuid": "e81a839b-478d-b2da-5c97-f87eb78e7f49",
+      "DisplayName": "Assembly-CSharp-firstpass",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

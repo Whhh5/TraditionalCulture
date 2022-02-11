@@ -1,0 +1,307 @@
+[api-updater (non-obsolete-error-filter)] 2022/2/10 13:05:42 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1008.3033ms
+moved types parse time: 372ms
+candidates parse time : 11ms
+C# parse time         : 1530ms
+candidates check time : 426ms
+console write time    : 65ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 17:11:50 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1278.5806ms
+moved types parse time: 115ms
+candidates parse time : 1ms
+C# parse time         : 920ms
+candidates check time : 25ms
+console write time    : 47ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 20:04:12 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from F:\UnityDates\TraditionalCulture\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 811.5977ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 661ms
+candidates check time : 150ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 20:11:09 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 437.8292ms
+moved types parse time: 86ms
+candidates parse time : 1ms
+C# parse time         : 291ms
+candidates check time : 38ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 21:50:52 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1016.4886ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 490ms
+candidates check time : 66ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 21:51:10 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95.7454ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 241ms
+candidates check time : 76ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 22:20:46 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1361.4988ms
+moved types parse time: 103ms
+candidates parse time : 1ms
+C# parse time         : 1069ms
+candidates check time : 70ms
+console write time    : 110ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 22:44:20 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 739.1333ms
+moved types parse time: 107ms
+candidates parse time : 2ms
+C# parse time         : 499ms
+candidates check time : 58ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 22:45:38 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.7791ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 225ms
+candidates check time : 78ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/10 22:45:57 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86.7681ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 251ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:27:57 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1720.0689ms
+moved types parse time: 103ms
+candidates parse time : 4ms
+C# parse time         : 1225ms
+candidates check time : 132ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:28:00 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 258.3105ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 272ms
+candidates check time : 79ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:28:29 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 460.7677ms
+moved types parse time: 94ms
+candidates parse time : 1ms
+C# parse time         : 309ms
+candidates check time : 113ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:28:52 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 806.99ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 454ms
+candidates check time : 152ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:29:10 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 847.8886ms
+moved types parse time: 104ms
+candidates parse time : 2ms
+C# parse time         : 382ms
+candidates check time : 92ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:29:17 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1441.4986ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 374ms
+candidates check time : 83ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:32:01 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1317.9556ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 233ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:32:48 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 574.6824ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 339ms
+candidates check time : 112ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:32:50 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 118.681ms
+moved types parse time: 113ms
+candidates parse time : 2ms
+C# parse time         : 307ms
+candidates check time : 93ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 12:33:05 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 507.6439ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 360ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 13:11:02 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1299.774ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 382ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:04:58 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1137.6814ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 260ms
+candidates check time : 92ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:05:04 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 108.8938ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 331ms
+candidates check time : 96ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:05:14 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132.6459ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 326ms
+candidates check time : 103ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:05:43 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88.7617ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 297ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:05:51 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95.7438ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 350ms
+candidates check time : 85ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:13:03 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.7649ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 262ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:13:08 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.765ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 298ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:13:17 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 120.6779ms
+moved types parse time: 95ms
+candidates parse time : 1ms
+C# parse time         : 508ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/2/11 14:14:01 : Starting D:/wjhderuanjian/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 652.2552ms
+moved types parse time: 96ms
+candidates parse time : 1ms
+C# parse time         : 334ms
+candidates check time : 90ms
+console write time    : 0ms
+
